@@ -94,7 +94,7 @@ const Services = () => {
   <Card
     emoji={dataAnalysis}
     heading={"Data Science & Machine Learning"}
-    detail={"Excel, SQL, Tableau/Power BI, Python, Pandas, NumPy, Scikit-learn, TensorFlow"}
+    detail={"Data Analysis, Machine learning"}
     tool2={"Jupyter Notebook"}
     color="rgba(252, 166, 31, 0.45)"
   />
