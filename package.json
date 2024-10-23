@@ -1,6 +1,6 @@
 {
   "name": "starter",
-  "homepage": "https://samuelolubukun.vercel.app/",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
