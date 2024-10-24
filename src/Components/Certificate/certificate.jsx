@@ -78,7 +78,7 @@ const Certificate = () => {
         <span>My </span>
         <span> Online Certification </span>
         <span>Courses</span>
-      <div className="blur t-blur1" style={{ background: "var(--purple)" }}></div>
+      <div className="blur t-blur1" style={{ background: "var(--blue)" }}></div>
       <div className="blur t-blur2" style={{ background: "skyblue" }}></div>
 
 

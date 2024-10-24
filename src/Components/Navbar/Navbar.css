@@ -48,6 +48,11 @@
     .n-list {
       display: none;
     }
+    .n-name{
+      margin-top: 4cm;
+      
+      font-size:21px;
+    }
   }
 
 

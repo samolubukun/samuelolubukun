@@ -20,7 +20,7 @@ const navbar = () => {
       {/* logo image */}
 
       <div className="n-left">
-        <div className="n-name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samuel.O</div>
+        <div className="n-name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samuel Olubukun</div>
         <Toggle />
       </div>
       {/* right */}

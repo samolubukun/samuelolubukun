@@ -21,13 +21,19 @@ const Works = () => {
         <div className="awesome">
           {/* dark Mode */}
           <span style={{ color: darkMode ? "white" : "" }}>
-            Programming
+            Skills &
           </span>
-          <span>Languages</span>
+          <span>Technologies</span>
           <spane>
             <ul type="Square">
-              <li>Proficient: PHP, Python, Django, Java, Spring, ReactJS, Html/CSS, Nodejs, SQL</li>
-              <li>Familiar: Laravel, Dart, MongoDB</li>
+            <li>Full Stack Development: PHP (Laravel), Python (Django), Java (Spring),
+              <br></br> MERN, HTML/CSS, ReactJS, SQL</li>
+
+              <li>UI/UX Design: Wireframing, Prototyping, User Research, Figma</li>
+              <li>Data Analysis: Python, Excel, SQL, Tableau, Power BI</li>
+              <li>Machine Learning with Python</li>
+              <li>Graphic Design | System Anaysis and Design </li>
+
               
               <Link to="contact" smooth={true} spy={true}>
                 <button className="button s-button">Hire Me</button>

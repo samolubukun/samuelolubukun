@@ -21,7 +21,7 @@ const Testimonial = () => {
       title:"Park Auto Dealer Management System",
       img: no1,
       review:
-        "Park Auto Dealer Management System is a comprehensive web-based solution designed specifically for used auto or car dealerships. It offers a range of features to efficiently manage various aspects of dealership operations, including customer information, car models, transactions, sales reports, lead sources, and more.",
+        "Park Auto Dealer Management System is a comprehensive web-based solution designed specifically for used auto or car dealerships. ",
     },
     {
       title:"Image Tagging CNN Model",
@@ -33,7 +33,7 @@ const Testimonial = () => {
       title:"'DATCON-Search Engine and Document Manager",
       img: no2,
       review:
-        " 'DATCON-Search Engine and Document Manager' designed for efficiently managing Contractors and Consultants profiles and documents. Features include registration with comprehensive details, document scanning and storage, grading based on criteria, search functionality, and robust security measures ensuring data integrity and confidentiality.",
+        " 'DATCON-Search Engine and Document Manager' designed for efficiently managing Contractors and Consultants profiles and documents. ",
     },
     {
       title:"MERN Ecommerce Platform",
@@ -67,7 +67,7 @@ const Testimonial = () => {
         <span>Here are few of the </span>
         <span> Projects </span>
         <span>I have worked on...</span>
-      <div className="blur t-blur1" style={{ background: "var(--purple)" }}></div>
+      <div className="blur t-blur1" style={{ background: "var(--blue)" }}></div>
       <div className="blur t-blur2" style={{ background: "skyblue" }}></div>
 
       </div>
