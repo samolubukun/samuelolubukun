@@ -10,6 +10,11 @@ import no5 from "../../img/no5.png";
 import no6 from "../../img/no6.png";
 import no7 from "../../img/no7.png";
 import no8 from "../../img/no8.png";
+import no9 from "../../img/no9.png";
+import no10 from "../../img/no10.png";
+import no11 from "../../img/no11.png";
+import no12 from "../../img/no12.png";
+import no13 from "../../img/no13.png";
 
 import { themeContext } from "../../Context";
 const Portfolio = () => {
@@ -35,10 +40,16 @@ const Portfolio = () => {
           <img src={no6} alt="" />
         </SwiperSlide>
         <SwiperSlide>
+          <img src={no13} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
           <img src={no2} alt="" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={no7} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={no12} alt="" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={no3} alt="" />
@@ -52,6 +63,16 @@ const Portfolio = () => {
         <SwiperSlide>
           <img src={no5} alt="" />
         </SwiperSlide>
+        <SwiperSlide>
+          <img src={no9} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={no10} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={no11} alt="" />
+        </SwiperSlide>
+       
       </Swiper>
     </div>
   );
