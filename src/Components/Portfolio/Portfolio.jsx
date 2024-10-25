@@ -67,9 +67,6 @@ const Portfolio = () => {
           <img src={no9} alt="" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={no10} alt="" />
-        </SwiperSlide>
-        <SwiperSlide>
           <img src={no11} alt="" />
         </SwiperSlide>
        
