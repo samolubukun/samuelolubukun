@@ -15,6 +15,13 @@ import no10 from "../../img/no10.png";
 import no11 from "../../img/no11.png";
 import no12 from "../../img/no12.png";
 import no13 from "../../img/no13.png";
+import no14 from "../../img/no14.png";  
+import no15 from "../../img/no15.png";  
+import no16 from "../../img/no16.png";  
+import no17 from "../../img/no17.png";  
+import no18 from "../../img/no18.png"; 
+import no19 from "../../img/no19.png";  
+
 
 import { themeContext } from "../../Context";
 const Portfolio = () => {
@@ -34,10 +41,28 @@ const Portfolio = () => {
         className="portfolio-slider"
       >
         <SwiperSlide>
+          <img src={no14} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={no15} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
           <img src={no1} alt="" />
         </SwiperSlide>
         <SwiperSlide>
+          <img src={no16} alt="" />
+        </SwiperSlide>
+        <SwiperSlide> 
+          <img src={no19} alt="" /> 
+        </SwiperSlide>
+        <SwiperSlide>
           <img src={no6} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={no17} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={no18} alt="" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={no13} alt="" />

@@ -65,7 +65,7 @@ const Services = () => {
           <Card
             emoji={backend}
             heading={"Back-End"}
-            detail={"PHP, Laravel, Django, Java Spring, MySQL, SQLite, MongoDB, Nodejs, Express"}
+            detail={"PHP, Django, Java Spring, MySQL, SQLite, MongoDB, Nodejs, Express"}
             tool2={"Terminal"}
           />
         </motion.div>

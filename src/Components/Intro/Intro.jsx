@@ -13,7 +13,7 @@ import Instagram from "../../img/instagram.png";
 import Whatsapp from "../../img/whatsapp.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './Olubukunresume.pdf';
+import Resume from './OlubukunSamuelresume.pdf';
 
 const Intro = () => {
   // Transition

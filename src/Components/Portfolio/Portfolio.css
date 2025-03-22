@@ -42,6 +42,21 @@
     .portfolio {
       margin-top: -3cm;
     }  
+
+  
+    @media screen and (max-width: 480px) {
+      .portfolio {
+        margin-top: -3cm;
+      }  
+      .portfolio .swiper-wrapper {
+        gap: 10rem; /* Ensures spacing between images while swiping */
+      }
+    
+    
+      
+    }
+    
+  
     
   }
   

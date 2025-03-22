@@ -26,13 +26,12 @@ const Works = () => {
           <span>Technologies</span>
           <spane>
             <ul type="Square">
-            <li>Full Stack Development: PHP (Laravel), Python (Django), Java (Spring),
+            <li>Full Stack Development: PHP, Python (Django),
               <br></br> MERN, HTML/CSS, ReactJS, SQL</li>
-
-              <li>UI/UX Design: Wireframing, Prototyping, User Research, Figma</li>
+              <li>Machine Learning and Aritificial Intelligence</li>
               <li>Data Analysis: Python, Excel, SQL, Tableau, Power BI</li>
-              <li>Machine Learning with Python</li>
-              <li>Graphic Design | System Anaysis and Design </li>
+              <li>UI/UX Design: Figma, Wireframing, Prototyping, User Research</li>
+              <li>Graphic Design: Photoshop, Illustrator </li>
 
               
               <Link to="contact" smooth={true} spy={true}>

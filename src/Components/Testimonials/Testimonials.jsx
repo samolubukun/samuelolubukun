@@ -12,6 +12,12 @@ import no4 from "../../img/no4.png";
 import no5 from "../../img/no5.png";
 import no6 from "../../img/no6.png";
 import no8 from "../../img/no8.png";
+import no14 from "../../img/no14.png";  
+import no15 from "../../img/no15.png";  
+import no16 from "../../img/no16.png";  
+import no17 from "../../img/no17.png";  
+import no18 from "../../img/no18.png";
+import no19 from "../../img/no19.png";
 
 
 
@@ -23,6 +29,37 @@ const Testimonial = () => {
       review:
         "Park Auto Dealer Management System is a comprehensive web-based solution designed specifically for used auto or car dealerships. ",
     },
+    {
+      title: "Deepfake Video Detection System",
+      img: no14,
+      review:
+        "Deepfake Video Detection System is a machine learning project that analyze videos to detect deepfake content. Designed for identifying AI-generated facial manipulations.",
+    },
+    {
+      title: "Meerahzz Bridals",
+      img: no15,
+      review:
+        "Meerahzz Bridals is an eCommerce platform for bridal accessories and bouquets. It features a cart system, secure payment integration (Paystack), and a seamless shopping experience with categorized products and search functionality.",
+    },
+    {
+      title: "RAG Document Chatbot",
+      img: no19,
+      review:
+        "This chatbot uses RAG and LLMs to answer questions from uploaded documents (PDF, PPTX, DOCX). Just upload a file and ask anything!",
+    },      
+    {
+      title: "Spam Email Detection System",
+      img: no16,
+      review:
+        "Spam Email Detection System is an AI-powered tool that analyzes email content to detect and classify spam messages. It helps filter out unwanted emails and enhances cybersecurity.",
+    },
+    {
+      title: "Image Forgery Detection System",
+      img: no17,
+      review:
+        "Image Forgery Detection System is a machine learning based system that analyzes images to detect tampering and manipulations.",
+    },
+    
     {
       title:"Image Tagging CNN Model",
       img: no6,
@@ -41,12 +78,7 @@ const Testimonial = () => {
       review:
         "A complete Functional and Deployable Ecommerce Platform built with the MERN Stack.",
     },
-    {
-      title:"Book Recommendation KNN Model",
-      img: no8,
-      review:
-        "Book recommendation model using KNN. It identifies similar books based on user preferences and suggests relevant ones for recommendations.",
-    },
+
     {
       title:"Restaurant Food Ordering System",
       img: no4,
