@@ -10,10 +10,29 @@ import dae from "../../img/dae.jpg";
 import da from "../../img/da.jpg";
 import ml from "../../img/ml.jpg";
 import udm from "../../img/udm.jpg";
+import udm from "../../img/wquads.jpg";
+import udm from "../../img/wquailab.jpg";
 
 const Certificate = () => {
 
   const clients = [
+
+    {
+      title:"Applied AI Lab: Deep Learning for Computer Vision – WorldQuant University",
+      img: wquailab,
+    
+      review:
+        "Completed WQU's Applied AI Lab, engaging in six hands-on projects focused on computer vision challenges like image classification and object detection. Gained proficiency in neural networks and deep learning frameworks, applying skills to real-world scenarios.",
+    },
+    
+    {
+      title:"Applied Data Science Lab – WorldQuant University",
+      img: wquads,
+    
+      review:
+        "Completed WorldQuant University's Applied Data Science Lab, a 16-week, project-based program focusing on real-world data challenges. Projects included predicting housing prices in Mexico, analyzing air quality in Kenya, and modeling earthquake damage in Nepal. Developed skills in data wrangling, statistical analysis, machine learning, and data visualization using tools like Python, Pandas, and Matplotlib.",
+    },
+    
     {
       title:"Data Analytics Essentials",
       img: dae,
