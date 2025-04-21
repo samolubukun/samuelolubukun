@@ -18,7 +18,7 @@ const Certificate = () => {
   const clients = [
 
     {
-      title:"Applied AI Lab: Deep Learning for Computer Vision – WorldQuant University",
+      title:"Applied AI Lab – WorldQuant University",
       img: wquailab,
     
       review:
