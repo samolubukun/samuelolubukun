@@ -10,8 +10,8 @@ import dae from "../../img/dae.jpg";
 import da from "../../img/da.jpg";
 import ml from "../../img/ml.jpg";
 import udm from "../../img/udm.jpg";
-import udm from "../../img/wquads.jpg";
-import udm from "../../img/wquailab.jpg";
+import wquads from "../../img/wquads.jpg";
+import wquailab from "../../img/wquailab.jpg";
 
 const Certificate = () => {
 
