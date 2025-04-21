@@ -14,7 +14,7 @@ const Experience = () => {
         <span>Experience</span>
       </div>
       <div className="achievement">
-        <div className="circle" style={{color: darkMode?'var(--black)':''}}>25+</div>
+        <div className="circle" style={{color: darkMode?'var(--black)':''}}>30+</div>
         <span  style={{color: darkMode?'white':''}}>Completed </span>
         <span>Projects (Portfolio Projects)</span>
       </div>
