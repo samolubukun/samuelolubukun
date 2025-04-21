@@ -22,7 +22,7 @@ const Certificate = () => {
       img: wquailab,
     
       review:
-        "Completed WQU's Applied AI Lab, engaging in six hands-on projects focused on computer vision challenges like image classification and object detection. Gained proficiency in neural networks and deep learning frameworks, applying skills to real-world scenarios.",
+        "Completed WQU's Applied AI Lab, executing six real-world computer vision projects involving image classification, object detection, and generative AI. Gained hands-on experience with deep learning models and deployment techniques.",
     },
     
     {
@@ -30,7 +30,7 @@ const Certificate = () => {
       img: wquads,
     
       review:
-        "Completed WorldQuant University's Applied Data Science Lab, a 16-week, project-based program focusing on real-world data challenges. Projects included predicting housing prices in Mexico, analyzing air quality in Kenya, and modeling earthquake damage in Nepal. Developed skills in data wrangling, statistical analysis, machine learning, and data visualization using tools like Python, Pandas, and Matplotlib.",
+        "Completed WQU's Applied Data Science Lab, executing eight real-world projects involving data extraction, cleaning, modeling, and visualization using Python, SQL, and machine learning techniques.",
     },
     
     {
